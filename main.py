@@ -1,3 +1,2 @@
-git add main.py
-git commit -m "Add student management system"
-git push
+# main.py
+# Accidentally committed git commands have been removed.
