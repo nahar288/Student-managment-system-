@@ -1,2 +1,15 @@
-# main.py
-# Accidentally committed git commands have been removed.
+class human:
+    def eat(self):
+        print("i can eat")
+
+
+class male(human):
+    def hair(self):
+        print("i have small hair")
+
+
+class male2(human):
+    def hair(self):
+        print("i have long hair")
+
+    
