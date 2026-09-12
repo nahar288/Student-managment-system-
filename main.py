@@ -12,4 +12,7 @@ class male2(human):
     def hair(self):
         print("i have long hair")
 
+class female(human):
+    def hair(self):
+        print("i have long hair")
     
