@@ -11,3 +11,18 @@ class male(human):
 class female(human):
     def hair(self):
         print("i have long hair")
+
+
+class child(human):
+    def hair(self):
+        print("i have very short hair")
+
+
+class oldman(human):
+    def hair(self):
+        print("i have white hair")
+
+
+class student(human):
+    def hair(self):
+        print("i have normal hair")
