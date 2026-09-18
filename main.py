@@ -26,3 +26,4 @@ class oldman(human):
 class student(human):
     def hair(self):
         print("i have normal hair")
+          print("i have no hair")
