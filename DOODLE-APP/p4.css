@@ -1,0 +1,17 @@
+h1{
+    box-shadow: 2px 4px 4px rgb(135, 188, 135);
+}
+
+canvas{
+    margin-top: 140px;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes example {
+    from{box-shadow: 2px 4px 20px rgb(9, 44, 9);}
+    to{box-shadow: 2px 4px 20px rgb(33, 181, 33);}
+}
