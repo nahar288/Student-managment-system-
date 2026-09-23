@@ -55,3 +55,20 @@ The user can choose from options such as:
 🎯 Project Goal
 
 The main goal of this project is to build a simple banking system while practicing Python programming and Object-Oriented Programming concepts.
+
+# Student Management System
+
+This project is a student management system built using Python.
+
+## Features
+
+- Add students
+- View student information
+- Update student information
+- Delete student information
+
+## Technologies
+
+- Python
+- Git
+- GitHub
